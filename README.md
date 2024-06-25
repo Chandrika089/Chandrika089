@@ -57,10 +57,6 @@ I am a seasoned software developer with over 10 years of experience in building,
   
 - **Financial Data Visualization:**
   - Created web applications for visualizing financial trends with Flask and Plotly Dash.
-## Certifications
-
-- AWS Certified Solutions Architect
-- Certified Scrum Master (CSM)
 
 ## Contact
 
