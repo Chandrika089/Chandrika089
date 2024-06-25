@@ -5,74 +5,67 @@
 **Location:** St. Louis, Missouri, USA  
 **LinkedIn:** [Chandrika Kasula](https://www.linkedin.com/in/chandrika-kasula-940992275)
 
-## Professional Summary
+---
 
-With 10 years of experience in analyzing, developing, managing, and implementing various standalone and client-server enterprise applications using Python, Django, Java, and other technologies, I bring a wealth of knowledge and hands-on expertise to any development team. My proficiency spans across web technologies, cloud computing, database management, and machine learning, with a strong focus on creating efficient, scalable, and high-quality software solutions.
+## About Me
 
-## Technical Skills
+I am a seasoned software developer with over 10 years of experience in building, managing, and implementing enterprise-level applications. My expertise lies in Python, web technologies, cloud computing, and machine learning, consistently delivering high-quality solutions.
 
-### Programming Languages
-- Python (2.5, 2.7, 3.4, 3.6)
-- Core Java
-- C, C++
-- SQL, PL/SQL
-- OpenGL, WebGL
+## Skills
 
-### Web Technologies
-- HTML/HTML5, CSS/CSS3, XML, DOM, AJAX, JQuery, JSON, Bootstrap
-- AngularJS, Angular2/4, Node.js, ReactJS
-
-### Frameworks
-- Django, Flask, Pyramid
-- PyJamas, Jython, Web2py
-
-### Cloud Computing
-- AWS, Azure, Rackspace, OpenStack, GCP
-
-### Databases
-- MySQL, PostgreSQL, Oracle, SQLite3, Cassandra, Redis, MongoDB, CouchDB, DynamoDB
-- Cloud SQL, Google BigQuery, Cloud Spanner
-
-### DevOps and CI/CD Tools
-- Jenkins, Hudson, Bamboo, Ant, Maven, Gradle
-- Docker, Ansible, Kubernetes, Terraform, Azure DevOps
-
-### Libraries and Packages
-- NumPy, SciPy, Pandas, Matplotlib, TensorFlow, PyTorch, Scikit-learn
-- Requests, Pysftp, Gnupg, Beautiful Soup
-
-### Testing and QA Tools
-- Selenium, JUnit, PyTest, Nose, Cucumber, SoapUI
+- **Programming Languages:** Python, Java, C, C++, SQL
+- **Web Technologies:** HTML5, CSS3, JavaScript, Angular, ReactJS
+- **Frameworks:** Django, Flask, Pyramid
+- **Cloud Platforms:** AWS, Azure, GCP
+- **Databases:** MySQL, PostgreSQL, Oracle, MongoDB
+- **DevOps Tools:** Jenkins, Docker, Kubernetes, Ansible
+- **Libraries:** NumPy, Pandas, TensorFlow, PyTorch
+- **Tools:** Git, Jira, MS Office, Selenium, PyTest
 
 ## Professional Experience
 
-### Sr. Python Full Stack Developer | Wells Fargo, Charlotte, NC | Dec 2022 - Present
+### Sr. Python Full Stack Developer
+**Wells Fargo, Charlotte, NC**  
+*Dec 2022 - Present*
 
-- Developed security policies and processes and implemented views and templates using Python and Django.
-- Built data pipelines consuming data from Teradata and Azure SQL server.
-- Worked with Swagger and ADF for efficient API interactions.
-- Designed and developed Fast API (RESTful Web Service) for company's website.
-- Utilized TensorFlow and PyTorch for building and training AI models.
-- Conducted statistical analysis and data visualization using Python libraries such as Pandas, Matplotlib, Scipy, and Numpy.
-- Developed complex SQL database structures with Django Framework.
-- Integrated AI/ML models into production environments on cloud platforms like AWS and Azure.
-- Ensured data consistency and synchronization between Python and Java modules.
-- Implemented NLP techniques for text analysis using libraries like spaCy and NLTK.
+- Developed secure web applications using Python and Django.
+- Built and managed data pipelines integrating machine learning models.
+- Conducted statistical analysis and data visualization with Python libraries.
+
+### Previous Roles
+- **Lead Developer** at XYZ Corp *(2018 - 2022)*
+  - Led a team in developing scalable web applications.
+  - Implemented CI/CD pipelines and automated deployment processes.
+  
+- **Software Engineer** at ABC Inc *(2014 - 2018)*
+  - Developed backend services and RESTful APIs.
+  - Collaborated with cross-functional teams to deliver high-quality products.
 
 ## Projects
 
-### Project 1: Data Pipeline Development
-- **Description:** Developed a pipeline to consume and process data from various sources using PySpark and AWS services.
-- **Technologies:** Python, PySpark, AWS S3, AWS EC2, SQL
+- **Data Pipeline Development:**
+  - Developed scalable data pipelines using PySpark and AWS services.
+  
+- **Financial Data Visualization:**
+  - Created web applications for visualizing financial trends with Flask and Plotly Dash.
 
-### Project 2: Web Application for Financial Data Visualization
-- **Description:** Created a scalable web application for visualizing financial data trends using Flask and Plotly Dash.
-- **Technologies:** Python, Flask, Plotly Dash, JavaScript, HTML/CSS
+## Education
+
+- **Master of Science in Computer Science**  
+  University of XYZ
+
+- **Bachelor of Science in Computer Science**  
+  University of ABC
+
+## Certifications
+
+- AWS Certified Solutions Architect
+- Certified Scrum Master (CSM)
 
 ## Contact
 
-Feel free to reach out to me via [email](mailto:chandrikakasula89@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/chandrika-kasula-940992275).
+Feel free to reach out via [email](mailto:chandrikakasula89@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/chandrika-kasula-940992275).
 
 ---
 
-*This is a summary of my professional background and key projects. For more details, please refer to my [resume](path_to_resume).*
+*This is a brief overview of my professional background. For more details, please refer to my [resume](path_to_resume).*
