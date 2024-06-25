@@ -33,14 +33,23 @@ I am a seasoned software developer with over 10 years of experience in building,
 - Conducted statistical analysis and data visualization with Python libraries.
 
 ### Previous Roles
-- **Lead Developer** at XYZ Corp *(2018 - 2022)*
-  - Led a team in developing scalable web applications.
-  - Implemented CI/CD pipelines and automated deployment processes.
+- **Sr. Python Full Stack Developer** at Amex, Phoenix, AZ *(2020 - 2022)*
+  - Extensively worked with AWS services such as S3, EC2, Lambda, and CloudFormation, implementing infrastructure as code using Terraform.
+  - Automated service and application deployments using Ansible on AWS, and developed reporting tools to generate compliance reports.
   
-- **Software Engineer** at ABC Inc *(2014 - 2018)*
-  - Developed backend services and RESTful APIs.
-  - Collaborated with cross-functional teams to deliver high-quality products.
+- **Sr. Python Developer** at HCA Healthcare, Roswell, GA *(2018 - 2020)*
+  - Developed RESTful APIs using Django and integrated with frontend frameworks like Angular.js and React.js.
+  - Managed AWS infrastructure with tools like Chef and Puppet, and automated build processes using Jenkins and Docker.
 
+- **Python Developer** at Mind Craft Software Pvt Ltd, Mumbai, India *(2016 - 2018)*
+  - Developed frontend and backend modules using Python on the Django framework, and implemented high-performance MongoDB replica sets on EC2.
+  - Participated in the complete SDLC process, designing and developing website functionality using HTML, CSS, and JavaScript.
+
+- **Python Consultant** at Experion Technologies Pvt Ltd, Kerala, India *(2014 - 2016)*
+  - Managed, developed, and designed a dashboard control panel using Django/Python, implementing CRUD operations on MongoDB with PyMongo.
+  - Created RESTful API services and performed web scraping using Beautiful Soup to extract data from HTML and XML tags.
+
+  
 ## Projects
 
 - **Data Pipeline Development:**
@@ -48,15 +57,6 @@ I am a seasoned software developer with over 10 years of experience in building,
   
 - **Financial Data Visualization:**
   - Created web applications for visualizing financial trends with Flask and Plotly Dash.
-
-## Education
-
-- **Master of Science in Computer Science**  
-  University of XYZ
-
-- **Bachelor of Science in Computer Science**  
-  University of ABC
-
 ## Certifications
 
 - AWS Certified Solutions Architect
